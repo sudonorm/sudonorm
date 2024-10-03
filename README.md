@@ -1,6 +1,6 @@
 # 👋 Welcome to the nerd side...
 
-🤓 I am a senior data engineer and python developer with 8+ years' experience wrangling data and developing backends majorly in Python. I have an advanced knowledge in creating data pipelines using technologies like Airflow and creating ETL/ELT pipelines for RDBMS databases like PostgreSQL and MySQL. I geek out on all things databases, really enjoy solving complex problems and learning new things
+🤓 I am a senior data engineer and python developer with 8+ years' experience wrangling data and developing backends majorly in Python. I have an advanced knowledge in creating data pipelines using technologies like Airflow and creating ETL/ELT pipelines for RDBMS databases like PostgreSQL and MySQL. I also have experience deveopling applications using the Next.js framework. I geek out on all things data, AI, modern tech stacks, databases, and really enjoy solving complex problems and learning new things.
 
 💬 Ask me about data pipelines, programming, databases, GenAI, chatbots, and books
 
